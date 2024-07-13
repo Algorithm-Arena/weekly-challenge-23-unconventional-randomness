@@ -32,7 +32,7 @@ https://github.com/Algorithm-Arena/weekly-challenge-23-unconventional-randomness
 https://github.com/Algorithm-Arena/weekly-challenge-23-unconventional-randomness/assets/197597/6f0c1225-6b19-484e-98c3-0423581e2536
 
 
-* Honorable mention for @Uzo2005! Using sha256sum of the live stream feed of Time Square in New York you are getting a constant source of random numbers! https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/issues/2
+* Honorable mention for @Uzo2005! Using sha256sum of the live stream feed of Time Square in New York you are getting a constant source of random numbers! https://github.com/Algorithm-Arena/weekly-challenge-23-unconventional-randomness/issues/6
 
 
 https://github.com/Algorithm-Arena/weekly-challenge-23-unconventional-randomness/assets/197597/7d7b6d52-52a1-4fc4-8420-169157eaed00
